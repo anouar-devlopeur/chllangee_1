@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//Challenge 7 :  Not complite yet
+//Challenge 7 : 
 int main() {
     char n[100];
     int i=0;
