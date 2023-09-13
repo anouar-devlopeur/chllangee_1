@@ -8,7 +8,6 @@ int main()
     char sexe;
     char numeroTelephone[20];
 
-    // Saisie des informations personnelles
     printf("Entrez votre nom : ");
     scanf("%s", nom);
 
